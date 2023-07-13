@@ -1,2 +1,2 @@
-# LIP
-Lumina Improvement Proposals
+# CIP
+Castor Improvement Proposals
